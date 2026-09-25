@@ -1,0 +1,172 @@
+[
+  {
+    "customer_id": "C10001",
+    "recommendations": [
+      {
+        "product_id": "FP_001",
+        "score": 3.3697221279144287
+      },
+      {
+        "product_id": "FP_002",
+        "score": -2.049623489379883
+      },
+      {
+        "product_id": "FP_004",
+        "score": -2.9235072135925293
+      }
+    ]
+  },
+  {
+    "customer_id": "C10002",
+    "recommendations": [
+      {
+        "product_id": "FP_004",
+        "score": 2.9533708095550537
+      },
+      {
+        "product_id": "FP_003",
+        "score": 2.879255771636963
+      },
+      {
+        "product_id": "FP_002",
+        "score": -1.6759179830551147
+      }
+    ]
+  },
+  {
+    "customer_id": "C10003",
+    "recommendations": [
+      {
+        "product_id": "FP_003",
+        "score": 2.887722969055176
+      },
+      {
+        "product_id": "FP_004",
+        "score": 2.796222686767578
+      },
+      {
+        "product_id": "FP_002",
+        "score": -1.3193321228027344
+      }
+    ]
+  },
+  {
+    "customer_id": "C10004",
+    "recommendations": [
+      {
+        "product_id": "FP_003",
+        "score": 2.8652069568634033
+      },
+      {
+        "product_id": "FP_004",
+        "score": 2.6445491313934326
+      },
+      {
+        "product_id": "FP_002",
+        "score": -1.2093698978424072
+      }
+    ]
+  },
+  {
+    "customer_id": "C10005",
+    "recommendations": [
+      {
+        "product_id": "FP_003",
+        "score": 3.7564048767089844
+      },
+      {
+        "product_id": "FP_004",
+        "score": 1.7199833393096924
+      },
+      {
+        "product_id": "FP_002",
+        "score": -1.7070001363754272
+      }
+    ]
+  },
+  {
+    "customer_id": "C10006",
+    "recommendations": [
+      {
+        "product_id": "FP_001",
+        "score": 3.485837459564209
+      },
+      {
+        "product_id": "FP_002",
+        "score": -1.8348382711410522
+      },
+      {
+        "product_id": "FP_004",
+        "score": -3.409620523452759
+      }
+    ]
+  },
+  {
+    "customer_id": "C10007",
+    "recommendations": [
+      {
+        "product_id": "FP_004",
+        "score": 3.7866811752319336
+      },
+      {
+        "product_id": "FP_003",
+        "score": 1.9511849880218506
+      },
+      {
+        "product_id": "FP_001",
+        "score": -1.1207479238510132
+      }
+    ]
+  },
+  {
+    "customer_id": "C10008",
+    "recommendations": [
+      {
+        "product_id": "FP_003",
+        "score": 3.798262596130371
+      },
+      {
+        "product_id": "FP_004",
+        "score": 1.602588415145874
+      },
+      {
+        "product_id": "FP_002",
+        "score": -1.166404366493225
+      }
+    ]
+  },
+  {
+    "customer_id": "C10009",
+    "recommendations": [
+      {
+        "product_id": "FP_003",
+        "score": 2.836148262023926
+      },
+      {
+        "product_id": "FP_004",
+        "score": 2.6939663887023926
+      },
+      {
+        "product_id": "FP_002",
+        "score": -1.2104811668395996
+      }
+    ]
+  },
+  {
+    "customer_id": "C10010",
+    "recommendations": [
+      {
+        "product_id": "FP_003",
+        "score": 3.7631165981292725
+      },
+      {
+        "product_id": "FP_004",
+        "score": 1.710062026977539
+      },
+      {
+        "product_id": "FP_002",
+        "score": -1.3533971309661865
+      }
+    ]
+  }
+]

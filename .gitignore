@@ -1,0 +1,36 @@
+# 虚拟环境
+venv/
+.venv/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.so
+
+# 大数据文件（不上传）
+*.pkl
+*.npy
+*.faiss
+bank_data.json
+
+# 大 HTML（Pyvis 图谱）
+*.html
+
+# 模型文件（可选）
+*.pt
+*.pth
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 密钥
+.env
+*.key

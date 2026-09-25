@@ -1,0 +1,88 @@
+{
+  "market_event": [
+    {
+      "customer_id": "C10466",
+      "customer_name": "客户C10466",
+      "product_id": "FP_004",
+      "product_name": "招银货币基金",
+      "event": "央行加息25个基点",
+      "reason": "「央行加息25个基点」影响了你偏好的市场范围"
+    },
+    {
+      "customer_id": "C10134",
+      "customer_name": "客户C10134",
+      "product_id": "FP_004",
+      "product_name": "招银货币基金",
+      "event": "央行加息25个基点",
+      "reason": "「央行加息25个基点」影响了你偏好的市场范围"
+    },
+    {
+      "customer_id": "C10410",
+      "customer_name": "客户C10410",
+      "product_id": "FP_004",
+      "product_name": "招银货币基金",
+      "event": "央行加息25个基点",
+      "reason": "「央行加息25个基点」影响了你偏好的市场范围"
+    },
+    {
+      "customer_id": "C10289",
+      "customer_name": "客户C10289",
+      "product_id": "FP_004",
+      "product_name": "招银货币基金",
+      "event": "央行加息25个基点",
+      "reason": "「央行加息25个基点」影响了你偏好的市场范围"
+    },
+    {
+      "customer_id": "C10142",
+      "customer_name": "客户C10142",
+      "product_id": "FP_004",
+      "product_name": "招银货币基金",
+      "event": "央行加息25个基点",
+      "reason": "「央行加息25个基点」影响了你偏好的市场范围"
+    }
+  ],
+  "deposit_maturity": [],
+  "behavior_driven": [],
+  "idle_cash": [
+    {
+      "customer_id": "C10001",
+      "customer_name": "客户C10001",
+      "idle_cash": 940000,
+      "product_id": "FP_003",
+      "product_name": "工银稳健债券基金",
+      "reason": "你有940000元闲钱，推荐配置偏好产品"
+    },
+    {
+      "customer_id": "C10003",
+      "customer_name": "客户C10003",
+      "idle_cash": 970000,
+      "product_id": "FP_005",
+      "product_name": "黄金主题基金",
+      "reason": "你有970000元闲钱，推荐配置偏好产品"
+    },
+    {
+      "customer_id": "C10004",
+      "customer_name": "客户C10004",
+      "idle_cash": 110000,
+      "product_id": "FP_005",
+      "product_name": "黄金主题基金",
+      "reason": "你有110000元闲钱，推荐配置偏好产品"
+    },
+    {
+      "customer_id": "C10005",
+      "customer_name": "客户C10005",
+      "idle_cash": 150000,
+      "product_id": "FP_004",
+      "product_name": "招银货币基金",
+      "reason": "你有150000元闲钱，推荐配置偏好产品"
+    },
+    {
+      "customer_id": "C10006",
+      "customer_name": "客户C10006",
+      "idle_cash": 840000,
+      "product_id": "FP_002",
+      "product_name": "易方达中概互联ETF",
+      "reason": "你有840000元闲钱，推荐配置偏好产品"
+    }
+  ]
+}
