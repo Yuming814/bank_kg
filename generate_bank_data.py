@@ -14,7 +14,7 @@ risk_levels = ["保守型", "稳健型", "平衡型", "进取型", "激进型"]
 income_levels = ["10-30w", "30-50w", "50-100w", "100w+"]
 
 customers = []
-for i in range(500):
+for i in range(5000):
     cid = f"C{10001+i}"
     customers.append({
         "customer_id": cid,

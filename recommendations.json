@@ -1,40 +1,40 @@
 {
   "market_event": [
     {
-      "customer_id": "C10466",
-      "customer_name": "客户C10466",
+      "customer_id": "C12271",
+      "customer_name": "客户C12271",
       "product_id": "FP_004",
       "product_name": "招银货币基金",
       "event": "央行加息25个基点",
       "reason": "「央行加息25个基点」影响了你偏好的市场范围"
     },
     {
-      "customer_id": "C10134",
-      "customer_name": "客户C10134",
+      "customer_id": "C10086",
+      "customer_name": "客户C10086",
       "product_id": "FP_004",
       "product_name": "招银货币基金",
       "event": "央行加息25个基点",
       "reason": "「央行加息25个基点」影响了你偏好的市场范围"
     },
     {
-      "customer_id": "C10410",
-      "customer_name": "客户C10410",
+      "customer_id": "C13768",
+      "customer_name": "客户C13768",
       "product_id": "FP_004",
       "product_name": "招银货币基金",
       "event": "央行加息25个基点",
       "reason": "「央行加息25个基点」影响了你偏好的市场范围"
     },
     {
-      "customer_id": "C10289",
-      "customer_name": "客户C10289",
+      "customer_id": "C13644",
+      "customer_name": "客户C13644",
       "product_id": "FP_004",
       "product_name": "招银货币基金",
       "event": "央行加息25个基点",
       "reason": "「央行加息25个基点」影响了你偏好的市场范围"
     },
     {
-      "customer_id": "C10142",
-      "customer_name": "客户C10142",
+      "customer_id": "C12311",
+      "customer_name": "客户C12311",
       "product_id": "FP_004",
       "product_name": "招银货币基金",
       "event": "央行加息25个基点",
@@ -72,8 +72,8 @@
       "customer_id": "C10005",
       "customer_name": "客户C10005",
       "idle_cash": 150000,
-      "product_id": "FP_004",
-      "product_name": "招银货币基金",
+      "product_id": "FP_003",
+      "product_name": "工银稳健债券基金",
       "reason": "你有150000元闲钱，推荐配置偏好产品"
     },
     {

@@ -7,18 +7,23 @@ __pycache__/
 *.py[cod]
 *.so
 
-# 大数据文件（不上传）
+# 大数据文件
 *.pkl
 *.npy
 *.faiss
 bank_data.json
 
-# 大 HTML（Pyvis 图谱）
+# 模型文件（关键！2.27GB 不上传）
+models/
+*.safetensors
+*.bin
+
+# 大 HTML
 *.html
 
-# 模型文件（可选）
-*.pt
-*.pth
+# 图谱缓存
+kg_vector_index.faiss
+kg_vector_metadata.pkl
 
 # Jupyter
 .ipynb_checkpoints/
