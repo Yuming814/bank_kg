@@ -4,15 +4,15 @@
     "recommendations": [
       {
         "product_id": "FP_001",
-        "score": 5.632142543792725
+        "score": 4.826498985290527
       },
       {
         "product_id": "FP_002",
-        "score": -0.06752461194992065
+        "score": -1.2384095191955566
       },
       {
         "product_id": "FP_004",
-        "score": -3.543729782104492
+        "score": -3.1795196533203125
       }
     ]
   },
@@ -20,16 +20,16 @@
     "customer_id": "C10002",
     "recommendations": [
       {
-        "product_id": "FP_003",
-        "score": 4.383033752441406
-      },
-      {
         "product_id": "FP_004",
-        "score": 4.355241775512695
+        "score": 4.493251800537109
       },
       {
-        "product_id": "FP_002",
-        "score": -2.0562386512756348
+        "product_id": "FP_003",
+        "score": 4.447189807891846
+      },
+      {
+        "product_id": "FP_001",
+        "score": -2.139246702194214
       }
     ]
   },
@@ -37,16 +37,16 @@
     "customer_id": "C10003",
     "recommendations": [
       {
-        "product_id": "FP_003",
-        "score": 4.499355316162109
-      },
-      {
         "product_id": "FP_004",
-        "score": 4.226123332977295
+        "score": 4.547100067138672
       },
       {
-        "product_id": "FP_002",
-        "score": -1.203694224357605
+        "product_id": "FP_003",
+        "score": 4.307557106018066
+      },
+      {
+        "product_id": "FP_001",
+        "score": -1.9506698846817017
       }
     ]
   },
@@ -55,15 +55,15 @@
     "recommendations": [
       {
         "product_id": "FP_003",
-        "score": 5.323843955993652
+        "score": 5.30189847946167
       },
       {
         "product_id": "FP_004",
-        "score": 3.328183174133301
+        "score": 3.5770678520202637
       },
       {
         "product_id": "FP_002",
-        "score": -2.0460124015808105
+        "score": -2.4024100303649902
       }
     ]
   },
@@ -72,15 +72,15 @@
     "recommendations": [
       {
         "product_id": "FP_004",
-        "score": 5.346170425415039
+        "score": 5.352194786071777
       },
       {
         "product_id": "FP_003",
-        "score": 3.3938956260681152
+        "score": 3.3672385215759277
       },
       {
-        "product_id": "FP_002",
-        "score": -1.342221736907959
+        "product_id": "FP_001",
+        "score": -1.2265727519989014
       }
     ]
   },
@@ -89,15 +89,15 @@
     "recommendations": [
       {
         "product_id": "FP_001",
-        "score": 5.736577987670898
+        "score": 4.811324596405029
       },
       {
         "product_id": "FP_002",
-        "score": -0.2648845911026001
+        "score": -0.9557002186775208
       },
       {
         "product_id": "FP_004",
-        "score": -3.4752044677734375
+        "score": -3.14224910736084
       }
     ]
   },
@@ -105,16 +105,16 @@
     "customer_id": "C10007",
     "recommendations": [
       {
-        "product_id": "FP_003",
-        "score": 4.501991271972656
-      },
-      {
         "product_id": "FP_004",
-        "score": 4.423460483551025
+        "score": 4.32119607925415
       },
       {
-        "product_id": "FP_002",
-        "score": -1.9993696212768555
+        "product_id": "FP_003",
+        "score": 4.2114763259887695
+      },
+      {
+        "product_id": "FP_001",
+        "score": -2.2112619876861572
       }
     ]
   },
@@ -122,16 +122,16 @@
     "customer_id": "C10008",
     "recommendations": [
       {
-        "product_id": "FP_003",
-        "score": 4.434940338134766
-      },
-      {
         "product_id": "FP_004",
-        "score": 4.25701379776001
+        "score": 4.500736236572266
       },
       {
-        "product_id": "FP_002",
-        "score": -1.241616129875183
+        "product_id": "FP_003",
+        "score": 4.261097431182861
+      },
+      {
+        "product_id": "FP_001",
+        "score": -1.8574492931365967
       }
     ]
   },
@@ -139,16 +139,16 @@
     "customer_id": "C10009",
     "recommendations": [
       {
-        "product_id": "FP_003",
-        "score": 4.500943183898926
-      },
-      {
         "product_id": "FP_004",
-        "score": 4.356036186218262
+        "score": 4.560453414916992
       },
       {
-        "product_id": "FP_002",
-        "score": -1.301081657409668
+        "product_id": "FP_003",
+        "score": 4.401266574859619
+      },
+      {
+        "product_id": "FP_001",
+        "score": -1.974450707435608
       }
     ]
   },
@@ -156,16 +156,16 @@
     "customer_id": "C10010",
     "recommendations": [
       {
-        "product_id": "FP_003",
-        "score": 4.517592906951904
-      },
-      {
         "product_id": "FP_004",
-        "score": 4.389967918395996
+        "score": 4.6027116775512695
       },
       {
-        "product_id": "FP_002",
-        "score": -1.284946084022522
+        "product_id": "FP_003",
+        "score": 4.353851318359375
+      },
+      {
+        "product_id": "FP_001",
+        "score": -1.782165288925171
       }
     ]
   }
